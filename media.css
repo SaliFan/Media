@@ -118,3 +118,14 @@ footer{
     align-content: flex-end;
     margin-top: 80px;
 }
+
+@media (min-width: 350px) and (max-width: 768px) {
+    a{
+       
+        font-size: 20px;
+    }
+    footer{
+        font-size: 20px;
+
+    }
+}
